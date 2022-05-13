@@ -1,0 +1,10 @@
+.background-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.loader {
+  width: 100%;
+  text-align: center;
+  padding-top: 350px;
+}

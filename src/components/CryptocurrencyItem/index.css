@@ -1,0 +1,29 @@
+.footer-list-item {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  padding: 10px 25px;
+}
+
+.currency-container {
+  display: flex;
+  align-items: center;
+  flex-grow: 1;
+}
+
+.currency-img {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.currency-name {
+  color: #ffffff;
+}
+
+.currency-value {
+  color: #ffffff;
+  max-width: 120px;
+  min-width: 80px;
+  text-align: right;
+}
